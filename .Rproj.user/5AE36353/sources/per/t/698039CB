@@ -3,9 +3,9 @@
     "path": "~/NetBeansProjects/QSJKafka/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "314834270",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1715823801882.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "110:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715828841,
+    "lastKnownWriteTime": 1715835481,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715828844659,
+    "last_content_update": 1715835481584,
     "read_only": false,
     "read_only_alternatives": []
 }
